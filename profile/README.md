@@ -1,4 +1,3 @@
-# Golden Ram Studios
+# Golden Ram Studio
 
-Welcome to Golden Ram Studios' git page! <br>
-Here you'll find tools that we made publicly available. Enjoy!
+Welcome to Golden Ram Studio's git page! <br>
